@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Sitio</title>
+</head>
+<body>
+    <h1>Bienvenido a Mi Sitio</h1>
+    <p>Este es un ejemplo de HTML que puedes enviar por WhatsApp.</p>
+    <img src="https://github.com/SebasShift/Angel/raw/334512ae74e98539eea197c72ef52f25ffeb65b6/foto1.jpg" alt="Foto 1">
+    <img src="https://github.com/SebasShift/Angel/raw/334512ae74e98539eea197c72ef52f25ffeb65b6/foto2.jpg" alt="Foto 2">
+</body>
+</html>
